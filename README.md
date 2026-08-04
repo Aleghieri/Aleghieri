@@ -19,7 +19,7 @@
         <li>☁️ <b>Tech Stack:</b> Python, SQL, Databricks, Microsoft Azure.</li>
         <li>🎯 <b>Foco Atual:</b> Preparação intensiva para a certificação <b>Azure DP-900</b>.</li>
         <li>🎓 <b>Formação:</b> Tecnólogo em Data Science concluído e pós-graduação em andamento.</li>
-        <li>🎮 <b>Além do código:</b> Quando não estou orquestrando dados, provavelmente estou platinando jogos (all hail Sony), configurando áudio e filtros no OBS para streamar no TikTok/Kick, ou cuidando do meu Uno Way (aka máquina de combate).</li>
+        <li>🎮 <b>Além do código:</b> Quando não estou fazendo os melhores pipelines do mundo, provavelmente estou platinando jogos (all hail Sony), configurando áudio e filtros no OBS para streamar no TikTok/Kick, ou cuidando do meu Uno Way (aka *máquina de combate*).</li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
@@ -57,24 +57,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,azure,sql,postgres,git,github,vscode,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,r,azure,sql,git,github,vscode,linux&perline=8" />
   </a>
 </p>
 
 <br>
 
-### 📈 Analytics do GitHub
-
-<div align="center">
-  <a href="https://github.com/Aleghieri">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aleghieri&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&title_color=0089D6&icon_color=0089D6" width="48%" />
-  </a>
-  <a href="https://github.com/Aleghieri">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleghieri&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&title_color=0089D6" width="48%" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alessandro-santos-7686b3226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
