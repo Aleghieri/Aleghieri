@@ -1,50 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=🗡️%20Ficha%20de%20Personagem&fontSize=40&fontColor=0089D6" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=150&section=header&text=🎲%20Painel%20de%20Origem&fontSize=40&fontColor=D4AF37" />
 </div>
 
-## 🛡️ Status do Herói
+> *"Um aventureiro desperta na Costa da Espada da Nuvem. O Absoluto dos Dados ameaça corromper a informação, mas este tecnomante domina as artes arcanas para transformar o caos em sabedoria."* — **A Narradora**
 
-- **Nome de Aventureiro:** Alessandro "Aleghieri" Santos
+## 🛡️ Status do Personagem (Tav)
+
+- **Origem Personalizada:** Alessandro "Aleghieri" Santos
 - **Nível:** 24
-- **Classe:** Engenheiro de Dados (*Mago da Nuvem*)
-- **Guilda Atual:** Concentrix
-- **Alinhamento:** Ordeiro e Otimizador (Sempre em busca da query mais rápida)
+- **Classe:** Engenheiro de Dados
+- **Subclasse:** *Mago da Nuvem (School of Pipelines)*
+- **Acampamento Atual:** Concentrix
+- **Antecedente (Background):** Sábio Otimizador (Sempre com Vantagem em testes de *Performance*)
+- **Idiomas Dominados:** Comum (Português), Élfico (Inglês), Subcomum (LIBRAS) e Sylvan (Francês Básico).
 
 ---
 
-## 📜 Lore (Background)
-Um tecnomante especializado em transformar hieróglifos ordenados, semi ordenados e/ou não ordenados em relíquias de sabedoria. Forjado na arte da Ciência de Dados, atualmente dedica suas campanhas para construir e orquestrar grandes pipelines de dados, garantindo que a informação flua com precisão e segurança através do reino da Cloud.
+## 📜 Diário de Campanha (Lore)
+Um conjurador especializado em decifrar hieróglifos ordenados, semi-ordenados ou envoltos na mais pura escuridão não estruturada. Forjado nas antigas artes da Ciência de Dados, dedica suas campanhas atuais a conjurar e orquestrar pipelines colossais, garantindo que o fluxo de informações escape dos devoradores de mentes e chegue aos Oráculos com precisão, segurança e zero *Critical Miss*.
 
 ---
 
-## 📊 Atributos Principais
+## 🎲 Ficha de Atributos & Feitiços Preparados
 
-| Atributo | Ferramenta | Nível de Maestria | Efeito Passivo |
+| Habilidade | Proficiência | Modificador | Efeito Crítico (Passiva) |
 | :--- | :--- | :--- | :--- |
-| **Inteligência** | `Python` | 🟩🟩🟩 (3/3) | Maestria em criar feitiços de automação e scripts poderosos. |
-| **Mana** | `Microsoft Azure` | 🟩🟩🟩 (3/3) | Especialista em invocar e manter instâncias mágicas na nuvem. |
-| **Força** | `Databricks` | 🟩🟩🟩 (3/3) | Força bruta para processar e esmagar gigabytes de Big Data. |
-| **Sabedoria** | `SQL` | 🟩🟩🟩 (3/3) | Conhecimento ancestral para extrair segredos dos Oráculos (Bancos de Dados). |
+| **INT (Inteligência)** | `Python` | 🎲 **+D20** | Conjura feitiços de automação e scripts poderosos que acertam em área. |
+| **CAR (Carisma)** | `Microsoft Azure` | 🎲 **+D20** | Persuasão máxima para invocar, manipular e manter instâncias arcanas na nuvem. |
+| **CON (Constituição)** | `Databricks` | 🎲 **+D20** | Resistência brutal para processar e esmagar Terabytes de Big Data sem sofrer exaustão. |
+| **SAB (Sabedoria)** | `SQL` | 🎲 **+D20** | Visão Verdadeira para extrair os segredos mais profundos dos Bancos de Dados. |
 
 ---
 
-## 🗺️ Quests Ativas
-📜 **Main Quest:** Conclua a Pós-Graduação e obtenha a relíquia antiga `Melhor Cientista de Dados da Cidade`.
-<br>
-📜 **Side Quest:** Derrote os testes e obtenha a relíquia antiga `Arquimago reconhecido pela ordem Azure DP-900`.
+## 🗺️ Diário de Missões (Journal)
 
-## 🗺️ Quests Concluídas
-📜 **Main Quest:** Conclua os ensinamentos da escola UNINASSAU e obtenha a relíquia antiga `Melhor Cientista de Dados do Bairro`.
-<br>
-📜 **Main Quest:** Conclua os ensinamentos da escola EBAC e obtenha a relíquia antiga `Melhor Cientista de Dados da Rua`.
+### 🟡 Ato III (Quests Ativas)
+*   📜 **[Missão Principal] O Enigma da Pós-Graduação:** Explore as ruínas acadêmicas e obtenha a relíquia lendária `Melhor Cientista de Dados da Cidade`. *(Em andamento)*
+*   📜 **[Missão Secundária] O Desafio dos Deuses da Nuvem:** Derrote os testes de certificação para desbloquear a proeza `Arquimago Reconhecido pela Ordem Azure DP-900`. *(Rolando iniciativa...)*
+
+### 🟢 Ato I e II (Quests Concluídas)
+*   ✅ **[Missão Principal] O Chamado de UNINASSAU:** Completou os rituais de iniciação e obteve o item raro `Melhor Cientista de Dados do Bairro`. *(Concluído)*
+*   ✅ **[Missão Principal] Os Pergaminhos de EBAC:** Decifrou os ensinamentos da guilda e equipou o item incomum `Melhor Cientista de Dados da Rua`. *(Concluído)*
+
 ---
 
----
-
-
-## 🤝 Tens o que é necessário para me convocares à sua Party?
+## 🏕️ Junte-se ao Acampamento
+*Você deseja adicionar este companheiro à sua Party? Role um teste de Persuasão ou envie uma mensagem direta.*
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alessandro-santos-7686b3226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:aalessandrosantos2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Correio_Elegante-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alessandro-santos-7686b3226" target="_blank"><img src="https://img.shields.io/badge/Adicionar_ao_Acampamento-(LinkedIn)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:aalessandrosantos2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Usar_Feitiço_de_Mensagem-(Email)-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
