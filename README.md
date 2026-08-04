@@ -10,9 +10,9 @@
 - **Nível:** 24
 - **Classe:** Engenheiro de Dados
 - **Subclasse:** *Mago da Nuvem (School of Pipelines)*
-- **Acampamento Atual:** Concentrix
-- **Antecedente (Background):** Sábio Otimizador (Sempre com Vantagem em testes de *Performance*)
-- **Idiomas Dominados:** Comum (Português), Élfico (Inglês), Subcomum (LIBRAS) e Sylvan (Francês Básico).
+- **Guilda Atual:** Concentrix
+- **Background:** Sábio Otimizador - 🎲 **1d20+20** em testes de *Performance*
+
 
 ---
 
