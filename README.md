@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://giphy.com/explore/spinning-seal" width="250" style="border-radius: 10px;" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVibjBla3g0ajFudDZoMTg2ZG55cndxODZpbzNjZjVtNGZ6czQ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/enj50kao8gMfu/giphy.gif" width="250" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
