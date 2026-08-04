@@ -30,10 +30,12 @@ Um tecnomante especializado em transformar hieróglifos ordenados, semi ordenado
 
 ## 🗺️ Quests Ativas
 📜 **Main Quest:** Conclua a Pós-Graduação e obtenha a relíquia antiga `Melhor Cientista de Dados da Cidade`.
+<br>
 📜 **Side Quest:** Derrote os testes e obtenha a relíquia antiga `Arquimago reconhecido pela ordem Azure DP-900`.
 
 ## 🗺️ Quests Concluídas
 📜 **Main Quest:** Conclua os ensinamentos da escola UNINASSAU e obtenha a relíquia antiga `Melhor Cientista de Dados do Bairro`.
+<br>
 📜 **Main Quest:** Conclua os ensinamentos da escola EBAC e obtenha a relíquia antiga `Melhor Cientista de Dados da Rua`.
 ---
 
