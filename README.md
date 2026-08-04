@@ -4,7 +4,7 @@
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0089D6&center=true&vCenter=true&width=600&lines=Engenharia+de+Dados+na+Concentrix;Especialista+em+Azure+%26+Databricks;Streamer+%26+Gamer+nas+horas+vagas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0089D6&center=true&vCenter=true&width=600&lines=Analista+de+Dados+na+Concentrix;Especialista+em+Azure+%26+Databricks;Streamer+%26+Gamer+nas+horas+vagas" alt="Typing SVG" />
   </a>
 </h2>
 
@@ -19,11 +19,11 @@
         <li>☁️ <b>Tech Stack:</b> Python, SQL, Databricks, Microsoft Azure.</li>
         <li>🎯 <b>Foco Atual:</b> Preparação intensiva para a certificação <b>Azure DP-900</b>.</li>
         <li>🎓 <b>Formação:</b> Tecnólogo em Data Science concluído e pós-graduação em andamento.</li>
-        <li>🎮 <b>Além do código:</b> Quando não estou orquestrando dados, provavelmente estou platinando jogos no PS5/PC (focado nas mecânicas de <i>Black Myth: Wukong</i>), configurando áudio e filtros no OBS para streamar no TikTok/Kick, ou cuidando do meu Uno Way.</li>
+        <li>🎮 <b>Além do código:</b> Quando não estou orquestrando dados, provavelmente estou platinando jogos (all hail Sony), configurando áudio e filtros no OBS para streamar no TikTok/Kick, ou cuidando do meu Uno Way (aka máquina de combate).</li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="250" style="border-radius: 10px;" />
+      <img src="https://giphy.com/explore/spinning-seal" width="250" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
